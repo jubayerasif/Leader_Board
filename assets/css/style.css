@@ -9,13 +9,32 @@
 body
 {
     font-family: 'Poppins', sans-serif;
+    background-color: #F3F1FF;
 }
+.navbar{
+    background: #562EFF;
+    margin-bottom: 10px;
+}
+nav img {
+    width: 51px;
+}
+.nav-container{
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.w-text-h, .w-text-a{
+    color: #fff;
+}
+.w-text-a{
+    padding-top: 22px;
+    margin-right: 20px;
+    font-weight: 300;
 
-
-
-
-
-
+}
+.w-text-a:hover{
+    color: #fff;
+}
 
 /* Thanks for watching */
 /* ##/12/2022 */
