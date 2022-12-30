@@ -22,7 +22,6 @@ nav img {
     width: 51px;
 }
 .nav-container{
-    color: #fff;
     padding-top: 5px;
     padding-bottom: 5px;
 }
@@ -42,6 +41,11 @@ nav img {
 .w-text-a:hover{
     color: #fff;
 }
-
+h5{
+    color: #562EFF;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+}
 /* Thanks for watching */
 /* ##/12/2022 */
