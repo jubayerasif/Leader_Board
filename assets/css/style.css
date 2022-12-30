@@ -18,8 +18,8 @@ body
     background: #562EFF;
     margin-bottom: 10px;
 }
-nav img {
-    width: 51px;
+nav img, .col-md-4 img {
+    width: 50px;
 }
 .nav-container{
     padding-top: 5px;
@@ -41,7 +41,7 @@ nav img {
 .w-text-a:hover{
     color: #fff;
 }
-h5{
+h4{
     color: #562EFF;
     font-weight: 500;
     font-size: 24px;
