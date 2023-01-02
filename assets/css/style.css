@@ -55,16 +55,17 @@ h4{
     max-width: 100%;
     height: auto;
 }
-.col-md-6 img{
+.blog-img{
     width: 200px;
     margin-right: 20px;
 }
 
 
-@media (min-width: 576px)
-.col-md-6 img{
-    width: 20px;
-    margin-right: 20px;
+@media screen and (min-width: 480px){
+    .blog-text > h4{
+        font-size: 14px;
+    }
 }
+
 /* Thanks for watching */
-/* ##/12/2022 */
+/* ##/01/2023 */
