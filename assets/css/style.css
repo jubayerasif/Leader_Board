@@ -49,7 +49,8 @@ nav img, .col-md-4 img
 {
     color: #fff;
 }
-h4{
+h4
+{
     color: #562EFF;
     font-weight: 500;
     font-size: 24px;
@@ -65,19 +66,22 @@ h4{
     width: 200px;
     margin-right: 20px;
 }
-.course-img{
+.course-img
+{
     width: 200px;
 
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 600px){
     .container{
         width: 400px;
     }
     .blog-text h4{
         font-size: 18px;
     }
+    .last-sec{
+        margin-bottom: 25px;
+    }
 }
-
 /* Thanks for watching */
-/* ##/01/2023 */
+/* 02/01/2023 */
